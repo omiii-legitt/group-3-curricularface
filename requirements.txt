@@ -1,0 +1,9 @@
+# Third-party packages imported by Group_3.ipynb
+# Install PyTorch/Torchvision builds compatible with your OS and CUDA setup.
+torch
+torchvision
+facenet-pytorch
+numpy
+Pillow
+scikit-learn
+opencv-python
