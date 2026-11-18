@@ -21,7 +21,7 @@ data/
   test/member_1/ ... member_4/
 ```
 
-Use the notebook's dataset setup section to point `ZIP_PATH` to your local dataset archive. The notebook and results folders are excluded from Git by `.gitignore`.
+Use the notebook's dataset setup section to point `ZIP_PATH` to your local dataset archive. Local dataset and results folders are excluded from Git by `.gitignore`.
 
 ## Setup
 
@@ -36,4 +36,5 @@ Open `Group_3.ipynb`, update the local dataset path if needed, and run the cells
 ## Team
 
 Group 3
+
 
