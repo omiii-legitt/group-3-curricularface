@@ -1,0 +1,12 @@
+# Local datasets, outputs, caches, and trained biometric artifacts
+/data/
+/112x112 main dataset.zip
+/curricularface_run/
+/curricularface_extracted*/
+/curricularface_results/
+*.pt
+*.pth
+*.ckpt
+__pycache__/
+.ipynb_checkpoints/
+
